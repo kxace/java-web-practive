@@ -7,7 +7,10 @@
 
 <hr>
 
-<a href="showForm">Hello World form</a>
+<a href="customer/showForm">Customer form with form validation</a>
+<br><br>
+<a href="student/showForm">Student form with radiobutton/checkbox/dropdown-list</a>
+
 
 </body>
 
